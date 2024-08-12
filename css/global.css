@@ -1,0 +1,23 @@
+:root {
+    font-family: 'Overpass';
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+  .rotate::after{
+    transform: rotate(-135deg) translate(-7px);
+
+  }
+  .span1{
+    transform: rotate(45deg) translate(7px, 7px);
+  }
+  .span3{
+    transform: rotate(-45deg) translate(7px, -7px);
+  }
