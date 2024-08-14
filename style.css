@@ -95,3 +95,8 @@
         overflow-hidden transition-all max-h-0;
     }
 }
+
+.bg {
+        'mobilebackground':"url('images/bg-pattern-intro-mobile.svg')",
+        'desktopbackground':"url('images/bg-pattern-intro-desktop.svg')",
+      },
